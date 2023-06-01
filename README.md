@@ -1,4 +1,4 @@
-# NeedForSpeer-GameList-Jetpack-Compose
+# NeedForSpeed-GameList-Jetpack-Compose
 
 "Need For Speed" game list app with pop-up info, Youtube trailer button, animation, and splash screen.
 
